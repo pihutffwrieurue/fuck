@@ -1,0 +1,3 @@
+IP: HYPIXELCOPYItW9.aternos.me:18736
+Port: 18736
+name ghocu
